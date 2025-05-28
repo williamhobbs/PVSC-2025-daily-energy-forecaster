@@ -28,9 +28,10 @@ I used [Miniforge](https://github.com/conda-forge/miniforge?tab=readme-ov-file#i
 ```
 conda create -n pvsc_forecaster_2025 python=3.12 -y
 conda activate pvsc_forecaster_2025
-conda install -c conda-forge herbie-data
+conda install -c conda-forge herbie-data -y
 pip install gridstatusio openpyxl python-Levenshtein thefuzz pvlib
 pip install pandas matplotlib ipykernel jupyter
+ 
 ```
 
 *Note: Before April 2025 it was difficult to install Herbie on Windows without `conda`. Apparently that changed when `eccodes` became available via `pip`. See [3], but I haven't tried this yet.*
