@@ -1,0 +1,21 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19
+latitude,32.811041,31.719983,33.021601,31.888,31.255,33.404486,30.4214,28.883196,31.435932,31.030996,32.104125,33.467803,32.4744,32.460054,32.533273,34.380532,26.090103,33.261505,29.271667,29.242304
+longitude,-99.91749,-104.442292,-99.61463,-100.825,-102.272,-96.082472,-97.4614,-99.178605,-99.796613,-102.488209,-100.162375,-95.370856,-95.7156,-102.672809,-96.428985,-100.099625,-97.798453,-97.238057,-98.444722,-95.658144
+nameplate_dc,131.5944,256.3621794871795,94.50715555555556,130.43478260869566,234.0,170.85436893203885,186.0,176.0,319.0,172.36235294117648,143.08,260.0,82.09830508474576,133.931,182.00981595092026,165.30633333333336,184.86111111111111,191.2756363636364,53.93611793611794,162.4
+nameplate_ac,100.8,188.2,74.9,100.0,180.0,125.7,144.0,132.4,250.0,126.3,102.2,198.5,59.8,100.70000000000002,147.6,121.4,137.5,148.8,39.2,120.0
+mount_type,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis,single-axis
+cell_type,crystalline,thin-film_cdte,crystalline,thin-film_cdte,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,crystalline,thin-film_cdte
+shade_loss_model,non-linear_simple_twin_module,linear,non-linear_simple_twin_module,linear,non-linear_simple,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple,non-linear_simple_twin_module,non-linear_simple,non-linear_simple_twin_module,non-linear_simple_twin_module,non-linear_simple,linear
+bifacial,False,False,True,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+bifaciality_factor,,,0.8,,,,,,,,,,,,0.8,,,,,
+backtrack,True,False,True,False,True,True,True,True,True,True,True,True,True,True,True,True,True,True,True,False
+gcr,0.35,0.4,0.35,0.4,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.35,0.4
+row_side_num_mods,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+fixed_azimuth,,,,,,,,,,,,,,,,,,,,
+fixed_tilt,,,,,,,,,,,,,,,,,,,,
+axis_azimuth,180.0,180,180,180.0,180,180,180.0,180.0,180,180,180.0,180.0,180.0,180.0,180,180.0,180,180.0,180,180
+axis_tilt,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0
+gamma_pdc,-0.0035,-0.0025,-0.0035,-0.0025,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0035,-0.0025
+dc_loss_fraction,0.1679541409993156,0.16475427789185493,0.1665345653661875,0.16900136892539352,0.17999726214921297,0.16617385352498293,0.1665345653661875,0.16475427789185493,0.16546406570841887,0.16827994524298429,0.17113073237508558,0.16900136892539352,0.16900136892539352,0.17326009582477764,0.16546406570841887,0.17289938398357285,0.16263655030800817,0.16156605065023955,0.19875427789185496,0.17042094455852164
+n_cells_up,24,1,24,1,12,24,24,24,24,24,24,24,24,12,24,12,24,24,12,1
+cod,2021-03-01 00:00:00,2021-12-01 00:00:00,2021-07-01 00:00:00,2020-12-01 00:00:00,2018-05-01 00:00:00,2021-08-01 00:00:00,2021-07-01 00:00:00,2021-12-01 00:00:00,2021-10-01 00:00:00,2021-02-01 00:00:00,2020-06-01 00:00:00,2020-12-01 00:00:00,2020-12-01 00:00:00,2019-12-01 00:00:00,2021-10-01 00:00:00,2020-01-01 00:00:00,2022-06-01 00:00:00,2022-09-01 00:00:00,2013-12-01 00:00:00,2020-08-01 00:00:00
