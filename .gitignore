@@ -5,4 +5,5 @@ pv_model.py
 forecast_solar.py
 test*
 forecasts/resource_data_ens*
+forecasts/power_fcasts_ens_all_unstacked.csv
 __pycache__/
