@@ -10,13 +10,18 @@ This project uses several packages, but most notably leverages pvlib [1], an ope
 
 ## Using this repository
 
-Start with the steps in the [Setup](#setup) section below. Then, review the Jupyter notebook files in order/
+Start with the steps in the [Setup](#setup) section below. Then, review the Jupyter notebook files in order:
 
 - [01_Get_ERCOT_EIA_Data.ipynb](01_Get_ERCOT_EIA_Data.ipynb)
+  - gets plant metadata from ERCOT and EIA and timeseries power data from ERCOT.
 - [02_Make_Forecasts.ipynb](02_Make_Forecasts.ipynb)
+  - makes power forecasts for the plants using multiple deterministic weather forecasts
 - [03_Analysis.ipynb](03_Analysis.ipynb)
+  - analyzes the accuracy of those forecasts for daily outage scheduling
 - [04_Make_Ensemble_Forecasts.ipynb](04_Make_Ensemble_Forecasts.ipynb)
+  - makes ensemble power forecasts using an ensemble weather forecast
 - [05_Ensemble_Analysis.ipynb](05_Ensemble_Analysis.ipynb)
+  - analyzes the ensemble forecasts
 
 
 
